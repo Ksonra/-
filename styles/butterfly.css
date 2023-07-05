@@ -1,0 +1,19 @@
+.one {
+    height: 150px;
+    position: absolute;
+    margin: 75px 1600px 800px 75px;
+}
+
+.fly { 
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+}
+
+.second {
+    top: 500px;
+    left: 1000px;
+    position: absolute;
+    height: 150px;
+
+}
